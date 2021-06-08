@@ -33693,6 +33693,14 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -55px 0 0 auto;
 }
 
+.u-header .u-nav-1 {
+  font-size: 1rem;
+  letter-spacing: 0px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+}
+
 .u-header .u-nav-2 {
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
 }
